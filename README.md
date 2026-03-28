@@ -101,6 +101,10 @@ Add:
 
 ## Usage
 
+## for frappe React App
+
+http://localhost:8080/scope.
+
 ### Balance Sheet Explorer (standalone page)
 
 ```
